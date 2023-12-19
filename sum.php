@@ -15,4 +15,14 @@ echo "Sum is $sum";
 
 
 
+
+
+/* Output
+
+
+Sum is 30
+
+
+*/
+
 ?>
